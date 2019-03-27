@@ -1,0 +1,8 @@
+[package]
+name = "encrypt_file"
+version = "0.1.0"
+authors = ["Fabrizio Cirelli <cirelli94@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rust_sodium = "0.10.2"
